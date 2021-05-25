@@ -110,12 +110,7 @@ $tags="";
 // include "../footer.php";
 
 ?>
-<script src="runtime.3d091289862144aef75a.js" defer></script><script src="polyfills.62a18a99564201faf539.js" defer></script><script src="scripts.342aae09f187dd3b0381.js" defer></script><script src="main.05f46d2c1db1fca56ce2.js" defer></script>
-<script>
-  setTimeout(() => {
-    $('div.container.col-md-8').addClass('col-md-12')
-  }, 100);
-</script>
+<script src="runtime.3d091289862144aef75a.js" defer></script><script src="polyfills.62a18a99564201faf539.js" defer></script><script src="scripts.342aae09f187dd3b0381.js" defer></script><script src="main.65b46253869b1400ace9.js" defer></script>
 </body>
 
 </html>
